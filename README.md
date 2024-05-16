@@ -25,8 +25,8 @@ Find the reflection of the image.
 
 ## Program:
 ```python
-Developed By: S.Shanmathi
-Register Number: 212222100049
+Developed By: Ragul R
+Register Number: 212222100040
 
 
 import numpy as np
